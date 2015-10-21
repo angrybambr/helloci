@@ -8,8 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-	bla bla bla
-        System.out.println( "Hello CI! ALEX" );
+        System.out.println( "IT WORKS" );
     }
     
     public static void doNothing() {
