@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
+	bla bla bla
         System.out.println( "Hello CI! ALEX" );
     }
     
@@ -15,3 +16,5 @@ public class App
     	// do nothing
     }
 }
+
+
